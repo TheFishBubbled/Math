@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheFishBubbled
-- 👀 I’m interested in Machine Learning and Computer Vision,and I also interested in everything about C++
-- 🌱 I’m currently learning Computer Vision and Machine Learning
+- 👀 I’m interested in Machine Learning and Computer Vision,and I also interested in everything about CS.
+- 🌱 I’m currently learning CS in WHU.
 - 📫 You can reach me through my E-mail address which in 2021300004049@whu.edu.en
 
 <!---
