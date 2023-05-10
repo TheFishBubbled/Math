@@ -13,6 +13,9 @@
 - 聚类分析法
 - 灰色系统理论（包括灰色关联分析和灰色预测）
 
+## 更新：最近加入了第15届华中杯C类赛题的小组代码实现（还不知道得没得奖）
+
+
 如果你对我的资料有什么问题，在issue向我提问吧。
 <!---
 TheFishBubbled/TheFishBubbled is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
